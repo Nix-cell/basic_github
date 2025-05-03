@@ -1,1 +1,2 @@
 This is contact file in document.
+This is a local contact file.
